@@ -1,5 +1,5 @@
 
-# Triplet Variational Autoencoder for Unsupervised Anomaly Detection in Brain MRI
+# MRI Tumor Detection Using Triplet Variational Autoencoder
 
 This repository contains the implementation of a **Triplet Variational Autoencoder (Tri-VAE)** designed to detect anomalies in brain MRI scans. The method is inspired by the CVPR 2024 paper: *"[Triplet Variational Autoencoder for Unsupervised Anomaly Detection in Brain MRI](https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/Wijanarko_Tri-VAE_Triplet_Variational_Autoencoder_for_Unsupervised_Anomaly_Detection_in_Brain_CVPRW_2024_paper.pdf)"*.
 
@@ -17,7 +17,6 @@ Tri-VAE is trained to model the distribution of healthy brain MRIs and detect ab
 * [Visual Results](#visual-results)
 * [Limitations and Future Work](#limitations-and-future-work)
 
----
 
 ## Overview
 
@@ -125,8 +124,6 @@ Triplet VAE:
 
 <img src="https://github.com/mmd-nemati/MRI-Tumor-Detection-Using-Triplet-Variational-Autoencoder/blob/main/assets/tri_vae.png" width="520">
 
-
----
 
 ## Limitations and Future Work
 
